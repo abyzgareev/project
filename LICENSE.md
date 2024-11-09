@@ -1,0 +1,1 @@
+SGNU AGPLv3

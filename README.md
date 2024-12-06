@@ -7,4 +7,8 @@ This is awesome project
 [Author](author.md)
 
 ## Some new section here
+
 ## section here
+
+## 2 Some new section here
+
